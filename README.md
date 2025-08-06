@@ -16,8 +16,11 @@ I worked on every step — from cleaning and preparing the data to creating DAX 
 3️. Tech Stack / Tools Used
 
 ✅Power BI Desktop – for data modeling and dashboard design
+
 ✅ Power Query – for data cleaning and transformation
+
 ✅ DAX (Data Analysis Expressions) – to create calculated measures and KPIs
+
 ✅ CSV / Excel files – as the data source
 
 
