@@ -61,4 +61,5 @@ Line charts for trend analysis
 Slicers for filtering by Churn Status.
 
 6.ScreenShot:
-Show what the dashboard look like:https://github.com/gourikudekar/Customer-Churn-Analysis-Dashboard/blob/main/Dashboard.png
+Show what the dashboard look like:
+Link:- https://github.com/gourikudekar/Customer-Churn-Analysis-Dashboard/blob/main/Dashboard.png
