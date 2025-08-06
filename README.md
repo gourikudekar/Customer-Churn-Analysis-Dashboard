@@ -1,17 +1,20 @@
 # Customer-Churn-Analysis-Dashboard
 
 
-1️. Project Title
+1️. Project Title:
+
 Customer Churn Analysis using Power BI
 
 
 2️. Short Description
+
 This project is about understanding why customers leave a business (churn) by analyzing their behavior using Power BI.
 The dashboard helps visualize key patterns, trends, and customer segments, which businesses can use to improve customer retention.
 I worked on every step — from cleaning and preparing the data to creating DAX formulas and designing the final dashboard.
 
 
 3️. Tech Stack / Tools Used
+
 ✅Power BI Desktop – for data modeling and dashboard design
 ✅ Power Query – for data cleaning and transformation
 ✅ DAX (Data Analysis Expressions) – to create calculated measures and KPIs
@@ -19,6 +22,7 @@ I worked on every step — from cleaning and preparing the data to creating DAX 
 
 
 4️. Data Source
+
 The data is based on a Customer Churn dataset (commonly available on platforms like Kaggle).
 It includes information such as:
 
@@ -29,6 +33,7 @@ Tenure (how long the customer stayed)
 Churn status (Yes/No – if the customer left)
 
 5️. Features / Highlights
+
 🔹 5.1 Data Preparation
 Cleaned the raw data using Power Query
 Removed duplicate and missing values
@@ -56,6 +61,4 @@ Line charts for trend analysis
 Slicers for filtering by Churn Status.
 
 6.ScreenShot:
-Show what the dashboard look like:
-
-Used bookmarks and tooltips for better UX
+Show what the dashboard look like:https://github.com/gourikudekar/Customer-Churn-Analysis-Dashboard/blob/main/Dashboard.png
